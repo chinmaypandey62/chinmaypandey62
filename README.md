@@ -17,8 +17,8 @@
 🌱 Passionate about **AI**, **Full Stack Development**, and **Problem Solving**.  
 🚀 Currently working on **[FUSION](https://github.com/chinmaypandey62/FUSION)**, a student collaboration app.  
 🏆 Achievements:  
-- Solved **600+ Problems** on LeetCode.  
-- Top **20%** in LeetCode contests.  
+- Solved **750+ Problems** on LeetCode.  
+- Top **14%** in LeetCode contests.  
 - **5⭐ in Problem Solving** on Hackerrank.  
 
 ---
