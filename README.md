@@ -15,7 +15,7 @@
 
 👨‍🎓 **B.Tech in Computer Science (AI)** from [PSIT Kanpur](https://psit.ac.in).  
 🌱 Passionate about **AI**, **Full Stack Development**, and **Problem Solving**.  
-🚀 Currently working on **[FUSION](https://github.com/chinmaypandey62/FUSION)**, a student collaboration app.  
+🚀 Currently working on **[CHORD](https://github.com/chinmaypandey62/chord)**, a student collaboration app.  
 🏆 Achievements:  
 - Solved **750+ Problems** on LeetCode.  
 - Top **14%** in LeetCode contests.  
