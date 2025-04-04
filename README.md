@@ -3,7 +3,7 @@
 ## 🚀 *Chinmay Pandey*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaypandey62)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmaypandey62)
+[![GitHub Premium](https://img.shields.io/badge/GitHub%20Premium-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmaypandey62)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230F6A2F.svg?&style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/chinmaypandey62/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chinmaypandey62)
 
