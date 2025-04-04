@@ -16,7 +16,7 @@
 
 - 🔭 Currently working on *Web Development* and *Machine Learning Projects*  
 - 🌱 Learning *AI and Advanced ML Concepts*  
-- 💡 Solved *650+ LeetCode* problems  
+- 💡 Solved *750+ LeetCode* problems  
 - 🚀 Building *Scalable AI Applications & Solutions*  
 - 📝 Exploring *GenAI, NLP, and Modern ML Frameworks*  
 
