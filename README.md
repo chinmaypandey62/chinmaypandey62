@@ -7,7 +7,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230F6A2F.svg?&style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/chinmaypandey62/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chinmaypandey62)
 
-📧 chinmaypandey62@gmail.com | 📞 +91 9305516589  
+📧 chinmaypandey62@gmail.com | 📞 +91 8808123150
 
 ---
 
