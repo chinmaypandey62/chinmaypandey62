@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🚀 *Chinmay Pandey*  
+##  *🌟 Chinmay Pandey 🌟*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaypandey62)
 [![GitHub Premium](https://img.shields.io/badge/GitHub%20Premium-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmaypandey62)
