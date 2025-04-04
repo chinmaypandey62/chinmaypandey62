@@ -1,91 +1,62 @@
-<h1 align="center">🌟 Chinmay Pandey 🌟</h1>  
-<p align="center">  
-  <b>Full Stack Developer | AI Enthusiast | Problem Solver</b>  
-</p>  
-<p align="center">  
-    <a href="https://leetcode.com/chinmaypandey62"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://linkedin.com/in/chinmaypandey62"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="https://github.com/chinmaypandey62"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
-  <a href="mailto:chinmaypandey62@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
-</p>  
+## 🚀 *Chinmay Pandey*  
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaypandey62)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmaypandey62)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%230F6A2F.svg?&style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/chinmaypandey62/)  
 
-## ✨ About Me  
+📧 chinmaypandey62@gmail.com | 📞 +91 9305516589  
 
-👨‍🎓 **B.Tech in Computer Science (AI)** from [PSIT Kanpur](https://psit.ac.in).  
-🌱 Passionate about **AI**, **Full Stack Development**, and **Problem Solving**.  
-🚀 Currently working on **[CHORD](https://github.com/chinmaypandey62/chord)**, a student collaboration app.  
-🏆 Achievements:  
-- Solved **750+ Problems** on LeetCode.  
-- Top **14%** in LeetCode contests.  
-- **5⭐ in Problem Solving** on Hackerrank.  
+---  
 
----
+### 🧑‍💻 *About Me*  
+🎯 Aspiring *Software Developer & AI Enthusiast* | 🏗 Passionate about *Full-Stack Development* and *Machine Learning*  
 
-## 🛠️ My Tech Stack  
+- 🔭 Currently working on *AI-driven applications* and *Full-Stack Projects*  
+- 🌱 Learning *Advanced Machine Learning Algorithms* and *Cloud Integration*  
+- 💡 Solved *650+ LeetCode* problems and *200 days streak*  
+- 🚀 Building *Efficient and Scalable Web Applications*  
 
-### 💻 Programming Languages  
-<p>  
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">  
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  
-</p>  
+---  
 
-### 🚀 Frameworks & Tools  
-<p>  
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">  
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white">  
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">  
-</p>  
+## 🛠 *Tech Stack*  
+### 🔹 Languages  
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
----
+### 🔹 Web Development  
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)  
 
-## 🚀 Featured Projects  
+### 🔹 Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### 🌐 [FUSION](https://github.com/chinmaypandey62/FUSION)  
-**Empowering student collaboration through AI-driven tools.**  
-- **Tech Stack**: React Native, Firebase, NLP-based AI Models.  
-- **Features**:  
-  - AI-powered chat for project discussions.  
-  - Real-time language translation.  
-  - Personalized mentorship matching.  
+---  
 
-### 📽️ [Videostream](https://github.com/chinmaypandey62/videostream)  
-**A seamless video streaming app with backend integration.**  
-- **Tech Stack**: Express.js, React.js.  
-- Designed for performance and responsiveness.  
-
-### 🎮 [The RPS Game](https://github.com/chinmaypandey62/rps-game)  
-**A fun Rock-Paper-Scissors game.**  
-- **Tech Stack**: HTML, CSS, JavaScript.  
-
----
-
-## 📊 GitHub Stats  
-
+## 📊 *GitHub Stats*  
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmaypandey62&show_icons=true&theme=tokyonight" alt="Chinmay's GitHub Stats" />  
-<img src="https://github-readme-streak-stats.vercel.app/?user=chinmaypandey62&theme=tokyonight" alt="Chinmay's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaypandey62&layout=compact&theme=tokyonight" alt="Top Languages" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaypandey62&theme=radical&hide_border=true" />  
 </div>  
 
----
+<div align="center">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaypandey62&theme=radical" />  
+</div>  
 
-## 🌐 Let's Connect  
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmaypandey62&show_icons=true&theme=radical&hide_border=true" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaypandey62&layout=compact&theme=radical&hide_border=true" />  
+</div>  
 
-<p align="center">  
-  <a href="https://linkedin.com/in/chinmaypandey62"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="https://github.com/chinmaypandey62"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
-  <a href="mailto:chinmaypandey62@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
-</p>  
+---  
 
----
+## 🌟 *Profile Visitors*  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chinmaypandey62)  
 
-> 🌱 *"The only limit to learning is your imagination. Let's keep growing together!"*  
+---  
+
+### 🎯 *Let's Connect & Build Something Amazing Together! 🚀*  
+🔗 [LinkedIn](https://linkedin.com/in/chinmaypandey62) | 🔗 [GitHub](https://github.com/chinmaypandey62) | 📧 chinmaypandey62@gmail.com
