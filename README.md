@@ -1,8 +1,27 @@
-# Chinmay Pandey 
+<p align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=chinmaypandey62" alt="Profile Visitors"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaypandey62) [![GitHub Premium](https://img.shields.io/badge/GitHub%20Premium-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmaypandey62) [![LeetCode](https://img.shields.io/badge/LeetCode-%230F6A2F.svg?&style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/chinmaypandey62/) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chinmaypandey62)
+<h1 align="center">Chinmay Pandey</h1>
 
+<p align="center">
+<a href="https://linkedin.com/in/chinmaypandey62">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/chinmaypandey62">
+<img src="https://img.shields.io/badge/GitHub%20Premium-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Premium"/>
+</a>
+<a href="https://leetcode.com/chinmaypandey62/">
+<img src="https://img.shields.io/badge/LeetCode-%230F6A2F.svg?&style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="https://www.hackerrank.com/chinmaypandey62">
+<img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+</p>
+
+<p align="center">
 📧 chinmaypandey62@gmail.com | 📞 +91 8808123150
+</p>
 
 ---
 ### 🧑‍💻 About Me
@@ -60,7 +79,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaypandey62&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://git-hub-streak-stats.vercel.app/?user=chinmaypandey62&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -68,20 +87,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmaypandey62&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://my-github-stats-sepia.vercel.app/api?username=chinmaypandey62&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaypandey62&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://my-github-stats-sepia.vercel.app/api/top-langs/?username=chinmaypandey62&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌟 Profile Visitors
 
-<p align="center">![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chinmaypandey62)</p>
-
----
 
 ### 🎯 Let's Connect & Collaborate!
 
