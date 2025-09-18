@@ -1,21 +1,36 @@
 <table width="100%">
   <tr>
     <td></td>
-    <td align="right">![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chinmaypandey62)</td>
+    <td style="text-align: right; vertical-align: top;">
+      <a href="https://visitor-badge.laobi.icu/badge?page_id=chinmaypandey62" target="_blank" rel="noopener">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=chinmaypandey62" alt="Visitor Badge" />
+      </a>
+    </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <h1>Chinmay Pandey</h1>
+    <td colspan="2" style="text-align: center;">
+      <h1 style="margin: 6px 0 10px 0;">Chinmay Pandey</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaypandey62) [![GitHub Premium](https://img.shields.io/badge/GitHub%20Premium-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmaypandey62) [![LeetCode](https://img.shields.io/badge/LeetCode-%230F6A2F.svg?&style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/chinmaypandey62/) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chinmaypandey62)
+      <p style="margin: 8px 0;">
+        <a href="https://linkedin.com/in/chinmaypandey62" target="_blank" rel="noopener">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="https://github.com/chinmaypandey62" target="_blank" rel="noopener">
+          <img src="https://img.shields.io/badge/GitHub%20Premium-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <a href="https://leetcode.com/chinmaypandey62/" target="_blank" rel="noopener">
+          <img src="https://img.shields.io/badge/LeetCode-%230F6A2F.svg?&style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+        </a>
+        <a href="https://www.hackerrank.com/chinmaypandey62" target="_blank" rel="noopener">
+          <img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+        </a>
+      </p>
 
-📧 chinmaypandey62@gmail.com | 📞 +91 8808123150
-
----
+      <p style="margin:4px 0 14px 0;">📧 chinmaypandey62@gmail.com | 📞 +91 8808123150</p>
+      <hr style="border:0.5px solid rgba(0,0,0,0.06); width:80%;" />
     </td>
   </tr>
 </table>
-
 
 ### 🧑‍💻 About Me
 
@@ -48,7 +63,6 @@
 ## 🛠 Tech Stack
 
 ### 🔹 Languages
-
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -56,14 +70,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔹 Web Development
-
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🔹 Databases
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
