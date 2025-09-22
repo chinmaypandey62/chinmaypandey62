@@ -187,6 +187,7 @@ const developer = {
 
 **🛠️ Tech:** Next.js, Express.js, MongoDB, Socket.IO, WebRTC
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=rocket&logoColor=white)](https://chord-app.onrender.com)
 [![GitHub](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmaypandey62/chord)
 
 </td>
