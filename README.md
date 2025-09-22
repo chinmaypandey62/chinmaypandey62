@@ -15,6 +15,8 @@
 🏆 **Competitive:** 800+ LeetCode • Top 9% Globally  
 ⚡ **Current Focus:** AI/ML Engineering, System Design
 
+<div align="center">
+
 ```typescript
 const developer = {
   name: "Chinmay Pandey",
@@ -23,6 +25,8 @@ const developer = {
   motto: "Coffee → Code → Solve → Repeat ☕"
 };
 ```
+
+</div>
 
 </td>
 </tr>
@@ -117,14 +121,14 @@ const developer = {
 
 <br><br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<p align="center">
   <a href="https://leetcode.com/chinmaypandey62">
-    <img src="https://leetcard.jacoblin.cool/chinmaypandey62?theme=catppuccinMocha&font=Stylish&ext=contest" alt="LeetCode Stats" width="400" height="280" />
+    <img src="https://leetcard.jacoblin.cool/chinmaypandey62?theme=catppuccinMocha&font=Stylish&ext=contest" alt="LeetCode Stats" width="400" height="280" style="margin: 10px;" />
   </a>
   <a href="https://codeforces.com/profile/chinmaypandey62">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=chinmaypandey62&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" width="400" height="280" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=chinmaypandey62&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" width="400" height="280" style="margin: 10px;" />
   </a>
-</div>
+</p>
 
 ### 🏆 Key Achievements
 🥇 **LeetCode**: 800+ problems solved • Top 9% globally <br>
