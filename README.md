@@ -17,7 +17,7 @@
 🏆 **Competitive:** 800+ LeetCode • Top 9% Globally  
 ⚡ **Current Focus:** AI/ML Engineering, System Design
 
-<div align="center">
+<div style="width:400px; overflow-x:auto;">
 
 ```typescript
 const developer = {
@@ -27,7 +27,6 @@ const developer = {
   motto: "Coffee → Code → Solve → Repeat ☕"
 };
 ```
-
 </div>
 
 </td>
