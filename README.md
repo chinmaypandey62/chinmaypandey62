@@ -57,6 +57,7 @@ const developer = {
 
 ## 🎯 Currently Building
 
+<center>
 <table>
 <tr>
 <td>
@@ -81,6 +82,7 @@ const developer = {
 </td>
 </tr>
 </table>
+</center>
 </div>
 <br>
 
@@ -88,7 +90,9 @@ const developer = {
 
 ## 🛠️ Technical Arsenal
 
-- ### Programming Languages
+<center>
+  
+### Programming Languages
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -97,7 +101,7 @@ const developer = {
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-- ### Frontend Development
+### Frontend Development
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -106,7 +110,7 @@ const developer = {
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-- ### Backend & Database
+### Backend & Database
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -114,13 +118,14 @@ const developer = {
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 </p>
 
-- ### AI/ML & Data Science
+### AI/ML & Data Science
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+</center>
 </div>
 <br>
 
@@ -156,6 +161,7 @@ const developer = {
 
 ## 🚀 Featured Projects
 
+<center>
 <table width="100%">
 <tr>
 <td width="50%">
@@ -228,6 +234,7 @@ const developer = {
 </td>
 </tr>
 </table>
+</center>
 </div>
 
 <br>
@@ -236,6 +243,7 @@ const developer = {
 
 ## 💼 Professional Journey
 
+<center>
 <table width="100%">
 <tr>
 <td width="60%">
@@ -273,6 +281,7 @@ const developer = {
 </td>
 </tr>
 </table>
+</center>
 </div>
 
 <br>
