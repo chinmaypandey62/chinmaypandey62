@@ -1,10 +1,10 @@
 <p align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=chinmaypandey62" alt="Profile Visitors"/>
 </p>
+
 <!-- Professional Introduction Card -->
 <div align="center">
-<!-- Professional Introduction Card -->
-<div align="center">
+<div style="max-width: 1000px; margin: 0 auto;">
 <table>
 <tr>
 <td align="center" width="800">
@@ -33,12 +33,6 @@ const developer = {
 </table>
 
 
-
-</td>
-</tr>
-</table>
-</div>
-
 <!-- Quick Stats & Links -->
 <div align="center">
 
@@ -50,9 +44,17 @@ const developer = {
 
 </div>
 
+</td>
+</tr>
+</table>
+</div>
+</div>
+
 <br>
 
 <!-- Currently Building Section -->
+<div style="max-width: 1000px; margin: 0 auto;">
+
 ## 🎯 Currently Building
 
 <table>
@@ -79,7 +81,10 @@ const developer = {
 </td>
 </tr>
 </table>
+</div>
 <br>
+
+<div style="max-width: 1000px; margin: 0 auto;">
 
 ## 🛠️ Technical Arsenal
 
@@ -116,7 +121,10 @@ const developer = {
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+</div>
 <br>
+
+<div style="max-width: 1000px; margin: 0 auto;">
 
 ## 📊 GitHub Analytics & Competitive Programming
 
@@ -142,6 +150,9 @@ const developer = {
 ⭐ **HackerRank**: 5 Stars in Data Structures & Algorithms
 
 </div>
+</div>
+
+<div style="max-width: 1000px; margin: 0 auto;">
 
 ## 🚀 Featured Projects
 
@@ -216,8 +227,11 @@ const developer = {
 </td>
 </tr>
 </table>
+</div>
 
 <br>
+
+<div style="max-width: 1000px; margin: 0 auto;">
 
 ## 💼 Professional Journey
 
@@ -258,8 +272,11 @@ const developer = {
 </td>
 </tr>
 </table>
+</div>
 
 <br>
+
+<div style="max-width: 1000px; margin: 0 auto;">
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -290,4 +307,5 @@ const developer = {
 
 **© 2024 Chinmay Pandey | Made with ❤️ and lots of ☕**
 
+</div>
 </div>
