@@ -17,17 +17,19 @@
 🏆 **Competitive:** 800+ LeetCode • Top 9% Globally  
 ⚡ **Current Focus:** AI/ML Engineering, System Design
 
-<div style="width:400px; overflow-x:auto;">
-
-```typescript
+<div style="width:400px; overflow-x:auto; border:1px solid #ddd; border-radius:6px; padding:10px; background:#f6f8fa; font-family:monospace; font-size:14px;">
+<pre>
+<code>
 const developer = {
   name: "Chinmay Pandey",
   role: "Full Stack Developer 🧙‍♂️",
   skills: ["Python", "JavaScript", "React", "AI/ML"],
   motto: "Coffee → Code → Solve → Repeat ☕"
 };
-```
+</code>
+</pre>
 </div>
+
 
 </td>
 </tr>
