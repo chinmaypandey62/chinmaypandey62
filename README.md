@@ -15,7 +15,7 @@
 🏆 **Competitive:** 800+ LeetCode • Top 9% Globally  
 ⚡ **Current Focus:** AI/ML Engineering, System Design
 
-<div align="center">
+<div align="center" width="400">
 
 ```typescript
 const developer = {
